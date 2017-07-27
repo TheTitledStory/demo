@@ -1,6 +1,6 @@
 [project]
 title = TTS
-version = 0.118
+version = 0.115
 
 [bootstrap]
 main_collection = /main/main.collectionc
@@ -33,5 +33,5 @@ custom_heap_size = 117440512
 include_dev_tool = 0
 htmlfile = 
 cssfile = 
-splash_image = /main/resources/images/splash_image.png
+splash_image = /main/images/splash_image.png
 
